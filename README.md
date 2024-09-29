@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mostakim
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mostakimur@outlook.com
+- 📫 How to reach me: mostakimurarshid@outlook.com
   
 
 <!---
